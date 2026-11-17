@@ -1,0 +1,13 @@
+echo "# Ff" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jordanosei64-cloud/Ff.git
+git push -u origin main
+git_jshhsh
+echo "# Ff" >> README.md
+git init
+git __ create game 
+git utral graphics
+shootings
